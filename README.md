@@ -2,7 +2,7 @@
 
 ###
 
-![Software Engineer](https://img.shields.io/badge/-Software%20Engineer-000000?style=flat-square)
+![Desenvolvedor Full-Stack Junior](https://img.shields.io/badge/-Software%20Engineer-000000?style=flat-square)
 
 <p data-importer="text" align="left">Desenvolvedor Full Stack com 1+ ano de experiência evoluindo sistemas ERP, atuando com C# (.NET), Angular e SQL Server. Expertise no clico completo de APIs (REST, SOAP, GraphQL) e microsserviços, com aplicação de Clean Architecture, DDD e SOLID. Vivência em CI/CD com Azure, testes automatizados (MSTest, Nunit, xUnit, E2E) e cerimônias Scrum.</p>
 
