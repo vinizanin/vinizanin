@@ -1,8 +1,7 @@
-<h2 data-importer="text" align="left">Vinicius Zanin</h2>
+<h1 data-importer="text" align="left">Vinicius Zanin</h1>
 
 ###
-
-![Desenvolvedor Full-Stack Junior](https://img.shields.io/badge/-Software%20Engineer-000000?style=flat-square)
+![Software Engineer](https://img.shields.io/badge/-Software%20Engineer-000000?style=flat-square)
 <p data-importer="text" align="left">Desenvolvedor Full Stack com 1+ ano de experiência evoluindo sistemas ERP, atuando com C# (.NET), Angular e SQL Server. Expertise no clico completo de APIs (REST, SOAP, GraphQL) e microsserviços, com aplicação de Clean Architecture, DDD e SOLID. Vivência em CI/CD com Azure, testes automatizados (MSTest, Nunit, xUnit, E2E) e cerimônias Scrum.</p>
 
 ###
@@ -43,10 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="33" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="33" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="33" alt="gitlab logo"  />
 </div>
 
 ###
