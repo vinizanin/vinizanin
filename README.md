@@ -6,7 +6,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">👩🏻‍💻Linguagens e Tecnologias</h2>
+<h2 data-importer="text" align="left">👩🏻‍💻Languages ​​and Technologies</h2>
 
 ###
 
